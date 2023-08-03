@@ -1,5 +1,8 @@
 # 💫 About Me:
-✓ Im freelance developer<br>✓ Im currently learning node js and sql for backend development<br>✓ I like to work in a team<br> > I enjoy this world of programming; it's incredible and satisfying what can be achieved with just a computer and an internet connection.
+- Im freelance developer
+- Im currently learning node js and sql for backend development
+- I like to work in a team
+> I enjoy this world of programming; it's incredible and satisfying what can be achieved with just a computer and an internet connection.
 
 
 ## 🌐 Socials:
