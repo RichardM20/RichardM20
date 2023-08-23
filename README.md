@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me
 - Im freelance developer
 - Im currently learning node js and sql for backend development
 - I like to work in a team
