@@ -1,7 +1,6 @@
 # 💫 About Me
 - Im freelance developer
-- Im currently learning React js
-- I like to work in a team
+- I am a Developer passionate about what I do, I will break my limits here and now :)
 > I enjoy this world of programming; it's incredible and satisfying what can be achieved with just a computer and an internet connection.
 
 
