@@ -1,5 +1,5 @@
 # 💫 About Me
-- I'm freelance developer
+- I'm Fullstack | Flutter developer
 - I'm a Developer passionate about what I do, I will exceed my limits here and now :)
 > I enjoy this world of programming; it's incredible and satisfying what can be achieved with just a computer and an internet connection.
 
